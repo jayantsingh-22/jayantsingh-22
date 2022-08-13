@@ -15,7 +15,6 @@
 
 - 📫 How to reach me : **jayantsingh640@gmail.com**
 
-- ⚡ Fun fact : **I excel at creating fictional situations inside my mind!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
