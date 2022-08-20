@@ -30,7 +30,9 @@
 &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
 </a>  </p> <hr>
 
-<p><img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantsingh-22&show_icons=true&locale=en&layout=compact" alt="jayantsingh-22" /></p>
+<h3>Statistics :</h3>
+<p>&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantsingh-22&show_icons=true&locale=en&layout=compact&theme=radical" alt="jayantsingh-22" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center"width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayantsingh-22&theme=monokai" alt="jayantsingh-22"/> </p>
 
-<p>&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=jayantsingh-22&show_icons=true&locale=en" alt="jayantsingh-22" />
-<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantsingh-22&" alt="jayantsingh-22" /></p>
+<p>&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=jayantsingh-22&show_icons=true&locale=en&theme=radical" alt="jayantsingh-22" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantsingh-22&theme=blux" alt="jayantsingh-22" /></p>
