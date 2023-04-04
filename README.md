@@ -16,7 +16,7 @@
 &nbsp; <a href="https://www.leetcode.com/jayantsingh640" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="jayantsingh640" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png?f=avif&w=256" alt="bootstrap" width="40" height="40"/> </a> 
 &nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png?f=avif&w=256" alt="c" width="40" height="40"/> </a> 
 &nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png?f=avif&w=256" alt="cplusplus" width="40" height="40"/> </a> 
