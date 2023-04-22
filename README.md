@@ -5,8 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayantsingh-22&style=flat-square&color=blueviolet&label=Profile+visits" alt="jayantsingh-22" /> </p> 
  <hr>
 
-- 📫 **jayantsingh640@gmail.com**
-
 <h3 align="left">SNS Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayant-singh-5425a3232" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-160-461814.png?f=avif&w=256" alt="jayant-singh-5425a3232" height="40" width="40" /></a>
