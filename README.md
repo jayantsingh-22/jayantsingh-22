@@ -22,8 +22,7 @@
 &nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a> 
 &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt="linux" width="40" height="40"/> </a> 
-&nbsp; <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-</a> &nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
+&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
 &nbsp; <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349502/sass.svg" alt="sass" width="40" height="40"/> </a> 
 &nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 &nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="tailwind" width="40" height="40"/> </a> 
