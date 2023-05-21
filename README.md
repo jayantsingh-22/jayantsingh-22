@@ -1,6 +1,6 @@
 
 <h1 align="center">Jayant Singh</h1>
-<h3 align="center">An engineering undergrad and sophomore at <a href="http://iiitbhopal.ac.in/#!/"> IIIT Bhopal</a>.</h3>
+<h3 align="center">An engineering undergrad, web developer and competitive programmer</a>.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayantsingh-22&style=flat-square&color=blueviolet&label=Profile+visits" alt="jayantsingh-22" /> </p> 
  <hr>
