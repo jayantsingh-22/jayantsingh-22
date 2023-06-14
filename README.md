@@ -30,7 +30,6 @@
 
 <h3>Stats :</h3>
 <p>&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantsingh-22&show_icons=true&locale=en&layout=compact&theme=radical&env=PAT_1" alt="jayantsingh-22" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center"width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayantsingh-22&theme=monokai" alt="jayantsingh-22"/> </p>
+<img align="center"width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayantsingh-22&theme=monokai" alt="jayantsingh-22"/> </p>
 
-<p>&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=jayantsingh-22&show_icons=true&locale=en&theme=radical&env=PAT_1" alt="jayantsingh-22" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantsingh-22&theme=blux" alt="jayantsingh-22" /></p>
+<p><img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantsingh-22&theme=blux" alt="jayantsingh-22" /></p>
