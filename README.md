@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/jayant-singh-5425a3232" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-160-461814.png?f=avif&w=256" alt="jayant-singh-5425a3232" height="40" width="40" /></a>
 &nbsp; <a href="https://www.codechef.com/users/jayant22" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="jayant22" height="40" width="40" /></a>
 &nbsp; <a href="https://www.hackerrank.com/jayantsingh640" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/hackerrank-3521478-2944922.png?f=avif&w=256" alt="jayantsingh640" height="40" width="40" /></a>
-&nbsp; <a href="https://www.leetcode.com/jayantsingh640" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="jayantsingh640" height="40" width="40" /></a>
+&nbsp; <a href="https://www.leetcode.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="jayantsingh" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
