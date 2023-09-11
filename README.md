@@ -31,7 +31,7 @@
 <h3>Stats :</h3>
 <p>&nbsp;
  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantsingh-22&show_icons=true&locale=en&layout=compact&theme=radical&env=PAT_1" alt="jayantsingh-22" />  &nbsp;&nbsp;&nbsp; 
- <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantsingh-22&theme=blux&env=PAT_1" alt="jayantsingh-22" />
+ <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantsingh-22&theme=blux" alt="jayantsingh-22" />
 </p> &nbsp;&nbsp;
 
 <p>
