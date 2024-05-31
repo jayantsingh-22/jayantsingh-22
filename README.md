@@ -7,7 +7,7 @@
   
   <h3 align="left">Socials:</h3>
   <p align="left">
-  &nbsp; <a href="https://www.leetcode.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="jayantsingh" height="40" width="40" /></a>
+  &nbsp; <a href="https://www.leetcode.com/jayantsingh640" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="jayantsingh" height="40" width="40" /></a>
   </p>
   
   <h3 align="left">Tech Stack:</h3> 
