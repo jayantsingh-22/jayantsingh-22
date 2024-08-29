@@ -2,7 +2,7 @@
   <h2 align="center">Jayant Singh</h2>
   <h3 align="left">Profiles:</h3>
   <p align="left">
-    <a href="https://leetcode.com/u/jytsh21/" target="blank">LeetCode</a> &nbsp;
+    <a href="https://leetcode.com/u/jytsh21/" target="blank">LeetCode</a> &nbsp; (updated link) <br/>
     <a href="https://codeforces.com/profile/jayant22" target="blank">CodeForces</a>
   </p> <hr>
   
